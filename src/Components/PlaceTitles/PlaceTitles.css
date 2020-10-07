@@ -1,0 +1,18 @@
+.Place-title{
+    /* padding-left: 0px;
+    border : 1px solid #cccccc;
+    width: '200px';
+    height: '300px';
+    */
+    border-radius: '10px'
+}
+.cart-title{
+    padding-top: 250px;
+    padding-left: 10px;
+    color: #fff;  
+}
+.Place-title:hover{
+    border: 3px solid #cd6b32;
+    box-shadow: 0px 5px 8px 0 rgb(179, 154, 135);
+    margin-left: '10px';
+}

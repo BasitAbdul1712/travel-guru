@@ -1,0 +1,17 @@
+.row-div{
+    display: flex;
+
+}
+.container{
+    /* display: flex; */
+    margin-top: 190px;
+    /* margin-left: 80px; */
+}
+.second-row-div{
+    display: flex;
+}
+.first-row-div{
+    /* border: 1px solid #fff; */
+    width: 20px;
+    color: #fff;
+}

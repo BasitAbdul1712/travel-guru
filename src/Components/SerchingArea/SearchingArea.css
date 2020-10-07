@@ -1,0 +1,19 @@
+.SearchingAreaInside img{
+    width: 250px;
+}
+.SearchingArea{
+    display: flex; 
+    color:#fff;
+    margin: 10px 10px 20px 40px
+}
+.body{
+    background-image: none;
+}
+.map{
+    width : 100%;
+    height: 600px;
+    border-radius: 15px;
+}
+.second-row-div{
+    /* border: 5px solid #fff; */
+}

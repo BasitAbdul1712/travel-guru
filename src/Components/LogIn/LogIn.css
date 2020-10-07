@@ -1,0 +1,26 @@
+.ship-form{
+    margin: auto;
+    /* width: 50%; */
+    background-color: #fff;
+    width: 400px;
+    padding: 0px 5px 5px 50px;
+    border: 1px solid grey;
+    border-radius: 10px;
+}
+.ship-form input{
+    display: block;
+    margin-top: 30px;
+    padding: 5px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    width: 300px; 
+}
+.error{
+    color: red;
+}
+.google{
+    width: '350px'; 
+    border: '1px solid gray';
+    border-radius: '20px';
+    padding: '5px';
+}
